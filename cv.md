@@ -9,12 +9,14 @@ I'm 30. I live in Polotsk. I work for a factory. There is a desire to learn fron
 - Absent, but we'll learn.
 ## Code
 ```
-Coming soon)
+function multiply(a, b){
+  return a * b
+}
 ```
 ## Work experience
 + Equipment adjuster (2013 - Present)
 ## Education
-+ Coming soon)
++ Lyceum ( 2010 - 2011 )
 ## Language
 + Russian (Main language)
 + Belarusian (B1)
