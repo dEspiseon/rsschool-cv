@@ -16,6 +16,6 @@ Coming soon)
 ## Education
 + Coming soon)
 ## Language
-+ Russian
-+ Belarusian
-+ English
++ Russian (Main language)
++ Belarusian (B1)
++ English (A1)
