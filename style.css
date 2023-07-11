@@ -3,3 +3,102 @@
     padding: 0px;
     box-sizing: border-box;
 }
+.text-h2{
+    font-size: 35px;
+    padding: 5% 0%;
+    text-align: center;
+}
+li{
+    list-style: none;
+    padding-bottom: 3%;
+}
+a{
+    text-decoration: none;
+}
+.p-text{
+    padding-left: 5%;
+}
+pre{
+    margin-left: -37%;
+}
+.wrapper{
+    max-width: 1020px;
+    margin: 1% 25%;
+    background-color: blanchedalmond;
+    border: 5px solid blanchedalmond;
+    border-radius: 20px;
+}
+header{
+    display: flex;
+    height: 250px;
+}
+header div{
+    width: 50%;
+}
+.photo img{
+    height: 100%;
+    padding: 5% 20%;
+}
+.info{
+    padding: 8% 5%;
+}
+.info h1{
+    border-bottom: 1px solid black;
+    padding-bottom: 2%;
+    width: 220px;
+}
+.info p{
+    padding-top: 5%;
+}
+
+/* MAIN */
+
+main{
+    display: flex;
+/*     background-color: white; */
+    border-radius: 15px;
+}
+main div{
+    width: 50%;
+}
+.main-left{
+    background-color: white;
+    border-right: 5px solid blanchedalmond;
+    border-radius: 15px;
+}
+.main-right{
+    background-color: white;
+    border-left: 5px solid blanchedalmond;
+    border-radius: 15px;
+}
+.contact img{
+    width: 6%;
+    padding-right: 3%;
+}
+
+
+
+/* FOOTER */
+
+
+footer{
+    display: flex;
+    height: 60px;
+    padding: 1% 0% 0% 0%;
+}
+footer div{
+    width: 15%;
+}
+.rss{
+    margin-left: 30%;
+}
+.rss img{
+    height: 40px;
+}
+.year{
+    font-size: 20px;
+    padding: 1% 1%;
+}
+.github img{
+    height: 40px;
+}
